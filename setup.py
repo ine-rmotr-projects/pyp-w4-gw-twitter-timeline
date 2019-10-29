@@ -31,7 +31,7 @@ setup(
     packages=['twitter_timeline'],
     maintainer='rmotr.com',
     install_requires=[
-        'Flask==0.11',
+        'Flask==1.0',
         'pymongo==3.2.2',
     ],
     tests_require=[
